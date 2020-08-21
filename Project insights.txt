@@ -1,0 +1,8 @@
+Author: Mihai Toderasc	
+Description: The final project is based on data from the New York Stock Exchange (NYSE).
+There are 3 parts covered, first analyzing the data using summary statistics and standard deviation.
+Second part is based on the Profit& Loss statement where I covered formulas that include Match, Index and other formulas, we can also find a drop-down list for the companies.
+Third part of the project is a Financial Forecasting Model using 3scenarios, which can be selected from the drop-down list.
+In the excel we can find the initial data as well as the steps made to get to the results, every sheet has it’s own specific step.
+
+
